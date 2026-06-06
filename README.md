@@ -4,8 +4,6 @@ Research workflow for semantic segmentation and quantitative characterization of
 
 **Authors:** Omar Faruk, Israt Jahan Keya, and Musfiq Mahmud Foysal
 
-This repository contains the reproducible notebook used for a Q1 journal-style deep learning study. The workflow benchmarks transfer-learning segmentation models, selects the final inference recipe, and extracts material-characterization descriptors from held-out SEM microstructure predictions.
-
 ## Scope
 
 The project performs four-class semantic segmentation:
