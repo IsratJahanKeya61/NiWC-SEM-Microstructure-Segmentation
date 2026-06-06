@@ -138,7 +138,6 @@ per_class_metrics.csv
 best_model.pt
 ```
 
-If these files exist, the run is loaded and skipped. If a run was interrupted before completion, that exact model/seed is retrained. This allows the notebook to continue from the first incomplete run after an interruption.
 
 ## Outputs
 
@@ -210,7 +209,6 @@ fix_l40s_numpy_abi.sh
 make_*.py                         # optional figure/table helper scripts, if needed
 ```
 
-Large datasets, trained checkpoints, and generated outputs should be uploaded only if permitted by the dataset and manuscript data-availability policy. Otherwise, provide them through a release archive, institutional repository, Zenodo, OSF, or journal supplementary data.
 
 ## Reproducibility Notes
 
