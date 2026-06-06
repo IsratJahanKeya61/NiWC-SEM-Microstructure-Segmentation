@@ -2,7 +2,7 @@
 
 Research workflow for semantic segmentation and quantitative characterization of Ni-WC metal matrix composite SEM microstructures.
 
-**Authors:** Omar Faruk, Israt Jahan Keya, and Musfiq Mahmud Foysal
+**Authors:** Omar Faruk, Israt Jahan Keya, and Musfique Mahmud Foysal
 
 ## Scope
 
