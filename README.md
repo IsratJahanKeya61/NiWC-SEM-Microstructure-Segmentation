@@ -221,12 +221,8 @@ Large datasets, trained checkpoints, and generated outputs should be uploaded on
 - All model histories, per-class metrics, confusion matrices, prediction masks, and material-characterization tables are saved.
 - The final model is reported separately because EMA and TTA are inference-stabilization steps applied after model selection.
 
-## Citation
-
-If this repository is used before the manuscript is formally published, cite it as:
 
 ```text
 Faruk, O.; Keya, I. J.; Foysal, M. M. Ni-WC SEM Microstructure Segmentation and Quantitative Phase Characterization. GitHub repository, 2026.
 ```
 
-Replace this entry with the final journal citation after publication.
